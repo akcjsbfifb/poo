@@ -29,3 +29,4 @@ TestResults/
 *.pdb
 *.cache
 *.log
+*.lua
