@@ -1,0 +1,31 @@
+# .NET build results
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
